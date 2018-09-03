@@ -1,0 +1,34 @@
+body
+	{background-color:#fff8dc;}
+
+.nero
+	{background-color: #d65355;
+	padding: 25pt;
+	margin-top: 25px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 150px;
+	border-radius: 25px;}
+	
+.neroh1
+	{color: gold;
+	text-align: center;
+	font-family: 'Patua One', cursive;
+	font-size: 32pt;}
+	
+.nerop
+	{color: white;
+	font-family: 'Montserrat', sans-serif;
+	text-indent: 50px;
+	text-align: justify;
+}
+
+#emperor
+	{text-align: center;
+	margin-bottom: 25px;}
+
+.fiesta
+	{margin: 0px 100px;}
+	
+.fiesta:hover
+	{filter: brightness(150%) grayscale(25%);}
